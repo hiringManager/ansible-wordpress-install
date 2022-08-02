@@ -7,7 +7,7 @@ ufw status
 # Clone ansible repo and modify variables needed
 
 sudo apt update ;
-sudo apt install python3 git neovim ansible
+sudo apt install python3 git neovim ansible ;
 
 cd ~
 git clone https://github.com/do-community/ansible-playbooks.git
