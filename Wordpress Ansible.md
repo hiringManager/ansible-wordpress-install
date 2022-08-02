@@ -1,6 +1,7 @@
 # Ansible playbook for wordpress
 
-![](Pasted%20image%2020220408213302.png)
+![image](https://user-images.githubusercontent.com/64992493/182436965-8e46558a-4352-460a-a6a8-51752fb0163c.png)
+
 
 (Gem, even though this isn't Ruby)
 
